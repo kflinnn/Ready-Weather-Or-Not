@@ -9,12 +9,15 @@ When the user is given a weather dashboard with form inputs, they are able to se
 ## Examples
 
 API Key:
+
 ![Screen Shot 2023-04-12 at 7 05 45 PM](https://user-images.githubusercontent.com/116764540/231605069-0a825f07-333f-42c7-860d-4454ae69f0e1.png)
 
 Rendering User Input
+
 ![Screen Shot 2023-04-12 at 7 06 07 PM](https://user-images.githubusercontent.com/116764540/231605102-0fb42176-cd9f-4de9-981f-bde0f9aacccd.png)
 
 Container for Search 
+
 ![Screen Shot 2023-04-12 at 7 06 37 PM](https://user-images.githubusercontent.com/116764540/231605210-6b477174-06a6-42f9-8e64-07f5dc4b51e9.png)
 
 
